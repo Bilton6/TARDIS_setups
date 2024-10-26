@@ -11,5 +11,5 @@ This repository contains the TARDIS simulation setups and Jupyter Notebook code 
 
 ## Contents
 
-- **`2020hvf_2.yml, 2012dn.yml, 2009dc.yml/`**: Files containing TARDIS configuration setps.
-- **`uniform.ipynb/`**: Jupyter Notebook script for running, analyzing and plotting the results from the simulations.
+- **`2020hvf_2.yml, 2012dn.yml, 2009dc.yml`**: Files containing TARDIS configuration setps.
+- **`uniform.ipynb`**: Jupyter Notebook script for running, analyzing and plotting the results from the simulations.
