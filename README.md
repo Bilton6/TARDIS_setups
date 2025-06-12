@@ -7,7 +7,7 @@ This repository contains the TARDIS simulation setups and Jupyter Notebook code 
 **Authors:** Snehasish Bhattacharjee et al.
 
 **Citation:**
-> Bhattacharjee, S., et al., *The Ultraviolet Spectra of 2003fg-like Type Ia Supernovae*, arXiv: `[arxiv_id]` (Paper ID: `[paper_id]`)
+> Bhattacharjee, S., et al., *The Ultraviolet Spectra of 2003fg-like Type Ia Supernovae*, arXiv: `2504.05869` (Paper ID: `[paper_id]`)
 
 ## Contents
 
